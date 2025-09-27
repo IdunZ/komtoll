@@ -1,32 +1,5 @@
-{
-  "P001": {"nama": "Telur", "harga": 2500, "stok": 200},
-  "P002": {"nama": "Keju", "harga": 45000, "stok": 50},
-  "P003": {"nama": "Tepung Terigu 1kg", "harga": 12000, "stok": 100},
-  "P004": {"nama": "Susu UHT 1L", "harga": 18000, "stok": 80},
-  "P005": {"nama": "Beras 5kg", "harga": 75000, "stok": 40},
-  "P006": {"nama": "Minyak Goreng 2L", "harga": 32000, "stok": 60},
-  "P007": {"nama": "Gula Pasir 1kg", "harga": 15000, "stok": 90},
-  "P008": {"nama": "Kopi Bubuk 200g", "harga": 28000, "stok": 70},
-  "P009": {"nama": "Teh Celup 25 pcs", "harga": 12000, "stok": 60},
-  "P010": {"nama": "Mie Instan", "harga": 3500, "stok": 500},
-  "P011": {"nama": "Roti Tawar", "harga": 20000, "stok": 50},
-  "P012": {"nama": "Mentega 200g", "harga": 18000, "stok": 40},
-  "P013": {"nama": "Sosis Ayam 500g", "harga": 35000, "stok": 30},
-  "P014": {"nama": "Nugget Ayam 1kg", "harga": 65000, "stok": 25},
-  "P015": {"nama": "Ikan Sarden Kaleng", "harga": 20000, "stok": 45},
-  "P016": {"nama": "Kecap Manis 600ml", "harga": 24000, "stok": 50},
-  "P017": {"nama": "Saus Sambal 500ml", "harga": 18000, "stok": 50},
-  "P018": {"nama": "Air Mineral 1.5L", "harga": 6000, "stok": 200},
-  "P019": {"nama": "Air Mineral Gelas", "harga": 1000, "stok": 1000},
-  "P020": {"nama": "Tisu Gulung", "harga": 25000, "stok": 60},
-  "P021": {"nama": "Sabun Mandi Cair 500ml", "harga": 30000, "stok": 40},
-  "P022": {"nama": "Shampoo 400ml", "harga": 38000, "stok": 35},
-  "P023": {"nama": "Pasta Gigi 160g", "harga": 25000, "stok": 50},
-  "P024": {"nama": "Detergen Bubuk 2kg", "harga": 45000, "stok": 40},
-  "P025": {"nama": "Pewangi Pakaian 900ml", "harga": 28000, "stok": 30},
-  "P026": {"nama": "Telur Asin", "harga": 5000, "stok": 100},
-  "P027": {"nama": "Kerupuk Udang 500g", "harga": 22000, "stok": 50},
-  "P028": {"nama": "Kacang Tanah 500g", "harga": 18000, "stok": 60},
-  "P029": {"nama": "Apel 1kg", "harga": 35000, "stok": 40},
-  "P030": {"nama": "Jeruk 1kg", "harga": 28000, "stok": 50}
-}
+[
+  {"id": "P001", "nama": "Telur", "harga": 2500, "stok": 200},
+  {"id": "P002", "nama": "Keju", "harga": 45000, "stok": 50},
+  ...
+]
